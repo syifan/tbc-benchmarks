@@ -46,6 +46,21 @@ Comparable to building a cycle-accurate CPU simulator, writing a survey paper, o
 | 19 | Markdown Note-Taking App | Productivity | TypeScript | Backlinks, graph view, search, local storage |
 | 20 | Log Aggregator & Alerting | Observability | Python | Ingestion, parsing, alerting, dashboard |
 
+### Research Papers
+
+| # | Name | Domain | Language | Key Challenge |
+|---|------|--------|----------|---------------|
+| 21 | LLM Evaluation Benchmarks Survey | ML/NLP | LaTeX | Taxonomy, meta-analysis, coverage analysis |
+| 22 | Open-Source Project Sustainability Study | Software Engineering | Python/LaTeX | GitHub data mining, predictive modeling, contributor analysis |
+| 23 | Machine Learning Reproducibility Study | ML | Python/LaTeX | Result reproduction, barrier analysis, systematic evaluation |
+| 24 | Code Review Effectiveness Analysis | Software Engineering | Python/LaTeX | PR mining, statistical correlation, bug linkage |
+| 25 | CRDT Algorithms Comparative Study | Distributed Systems | Rust/Python/LaTeX | Implementation, benchmarking, convergence analysis |
+| 26 | Programming Language Adoption Study | Empirical CS | Python/LaTeX | Multi-source data, trend analysis, correlation studies |
+| 27 | Technical Debt Empirical Analysis | Software Maintenance | Python/LaTeX | Metric extraction, temporal evolution, correlation analysis |
+| 28 | LLM-Generated Code Quality Study | ML/SE | Python/LaTeX | Multi-model evaluation, error categorization, quality metrics |
+| 29 | Package Dependency Network Analysis | Security/Networks | Python/LaTeX | Graph analysis, vulnerability propagation, topology metrics |
+| 30 | Consensus Algorithms Comparative Study | Distributed Systems | Go/Rust/LaTeX | Implementation, simulation, performance benchmarking |
+
 ## Usage
 
 Each subdirectory contains a `spec.md` with:
