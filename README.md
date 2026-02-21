@@ -16,6 +16,8 @@ Comparable to building a cycle-accurate CPU simulator, writing a survey paper, o
 
 ## Benchmarks
 
+### Hard Difficulty
+
 | # | Name | Domain | Language | Key Challenge |
 |---|------|--------|----------|---------------|
 | 1 | Distributed Key-Value Store | Systems | Go | Raft consensus, persistence, fault tolerance |
@@ -28,6 +30,21 @@ Comparable to building a cycle-accurate CPU simulator, writing a survey paper, o
 | 8 | Compiler Backend | Compilers | Rust | SSA IR, register allocation, x86-64 codegen |
 | 9 | Packet Sniffer & Protocol Analyzer | Networking | Python | Raw sockets, protocol parsing, live dashboard |
 | 10 | Automated Theorem Prover | Logic/Math | OCaml/Haskell | Unification, resolution, proof search |
+
+### Medium Difficulty
+
+| # | Name | Domain | Language | Key Challenge |
+|---|------|--------|----------|---------------|
+| 11 | Markdown Static Site Generator | Web | Go | Templates, live reload, RSS feed, file watching |
+| 12 | Personal Finance Tracker | Web/Data | Python/Flask | Budgets, charts, CSV import, authentication |
+| 13 | Git Implementation | VCS | Python | Object model, staging, branching, merging |
+| 14 | Image Processing Pipeline | Graphics | Rust | Filters, resize algorithms, batch processing |
+| 15 | Chat Application | Real-time | TypeScript/Node | WebSocket, rooms, file sharing, presence |
+| 16 | Task Scheduler / Cron System | Systems | Go | Cron parsing, retries, persistence, web UI |
+| 17 | Code Snippet Manager | Developer Tools | Rust | Syntax highlighting, TUI, search, Git sync |
+| 18 | HTTP Load Tester | Performance | Go | Concurrency, metrics, percentiles, reports |
+| 19 | Markdown Note-Taking App | Productivity | TypeScript | Backlinks, graph view, search, local storage |
+| 20 | Log Aggregator & Alerting | Observability | Python | Ingestion, parsing, alerting, dashboard |
 
 ## Usage
 
